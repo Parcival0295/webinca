@@ -36,6 +36,7 @@ header {
     border-radius: 15px;
     border-left: 5px solid var(--primario);
     margin-bottom: 30px;
+    background-image: url(imagenes/img3.jpg);
 }
 
 /* Usamos Grid para poner dos columnas */
@@ -54,7 +55,7 @@ header {
 
 .feature:hover {
     border: 1px solid var(--primario);
-    background-image: url(imagenes/img3.jpg);
+    background-image: url(imagenes/img2.jpg);
 }
 
 footer {
