@@ -49,6 +49,7 @@ header {
     background-color: var(--tarjeta);
     padding: 20px;
     border-radius: 10px;
+    background-image: url(imagenes/img2.jpg);
 }
 
 .feature:hover {
