@@ -35,7 +35,7 @@ header {
     padding: 30px;
     border-radius: 15px;
     border-left: 5px solid var(--primario);
-    margin-bottom: 30px;
+    
 }
 
 /* Usamos Grid para poner dos columnas */
