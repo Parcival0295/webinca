@@ -52,7 +52,6 @@ header {
 }
 
 .feature:hover {
-    transform: translateY(-10px);
     border: 1px solid var(--primario);
 }
 
