@@ -54,6 +54,7 @@ header {
 
 .feature:hover {
     border: 1px solid var(--primario);
+    background-image: url(imagenes/img2.jpg);
 }
 
 footer {
